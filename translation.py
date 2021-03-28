@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Haddock Telegram URL Upload Bot!
+This is a HaddockV2 Telegram URL Upload Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
