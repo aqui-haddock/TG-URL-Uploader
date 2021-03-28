@@ -1,13 +1,13 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
+This is a HaddockV2 Telegram URL Upload Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @InFoTelGroup
-© @SpEcHlDe , @TGBotsZ & @CWProjects"""
+Support Group : @allinonedownload
+© @CLoudGplinkbot , https://chat.whatsapp.com/HZxKQQkW8ODClkue1kAQaF & @HaddockURL_bot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -51,8 +51,8 @@ Expires on: 31/12/2020"""
 --------
 Send /me to know current plan details
 
-Support Group : @InFoTelGroup
-© @TGBotsZ"""
+Support Group : @allinonedownload
+© @CLoudGplinkbot"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
